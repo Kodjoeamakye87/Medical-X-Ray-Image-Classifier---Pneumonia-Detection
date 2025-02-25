@@ -28,3 +28,5 @@ Environment:
 * Python 3.8+
 * Libraries:
 tensorflow, pytorch, pandas, numpy, opencv-python, pillow, streamlit, matplotlib.
+
+NB: The code structure used in this project was inspired by Mouad Ait Khouya with github: https://github.com/mouadsifaw
