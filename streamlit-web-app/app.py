@@ -52,7 +52,7 @@ def make_prediction(img):
 # ---------------------------------------------------------
 # Streamlit App
 # ---------------------------------------------------------
-st.title("Pneumonia Detector (TensorFlow Lite)")
+st.title("Pneumonia Detector (Medical X-Ray Image Classifier)")
 st.write("Upload a chest X-ray image to detect Pneumonia.")
 
 # Upload an X-ray image
